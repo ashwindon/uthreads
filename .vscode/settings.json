@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "condition_variable": "c",
+        "mypthread.h": "c",
+        "pthread.h": "c",
+        "queue.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "time.h": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "fcntl.h": "c",
+        "thread": "c"
+    }
+}
